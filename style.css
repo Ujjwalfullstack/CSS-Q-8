@@ -1,0 +1,29 @@
+body {
+    margin: 100px;
+}
+
+td {
+    width: 3vw;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.noborder {
+    border: none;
+}
+
+.Color_1 {
+    background-color: #f3a586;
+}
+
+.Color_2 {
+    background-color: #5cc6fc;
+}
+
+.Color_3 {
+    background-color: #f0fa60;
+}
+
+.Color_4 {
+    background-color: #95fa88;
+}
